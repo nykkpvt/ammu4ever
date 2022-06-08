@@ -2,7 +2,7 @@ class Pattern {
 
 public static void main(String[] args) { 
 
-final String message = "I love you Amisha ❤️"; 
+final String message = "Crush's Name"; 
 
 final int n = 10; 
 
